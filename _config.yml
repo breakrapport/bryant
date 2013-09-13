@@ -9,7 +9,7 @@ extensions: [smart]
 # User Options
 name: Harris Romanos, M.D.
 baseurl:   # Leave this blank unless you are using a directory other than the root directory (Do not use a trailing slash '/')
-description: 'Phycisian, Writer, Truth seeker'
+description: 'Physician, Writer, Truth seeker'
 email: breakrapport@gmail.com
 twitter: 
 icon_url: https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash4/c171.50.619.619/s160x160/200071_110197832486620_1923309501_n.jpg
