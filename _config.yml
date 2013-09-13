@@ -4,7 +4,7 @@ pygments: true
 permalink: /posts/:title
 paginate: 10 # the number of post per page
 rdiscount:
-extensions: [smart]
+  extensions: [smart]
 
 # User Options
 name: Harris Romanos, M.D.
